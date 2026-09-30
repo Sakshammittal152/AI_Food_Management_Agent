@@ -18,9 +18,7 @@
 11. [API Overview](#api-overview)
 12. [Testing & Evaluation](#testing--evaluation)
 13. [Safety & Privacy](#safety--privacy)
-14. [Roadmap](#roadmap)
 15. [Limitations](#limitations)
-16. [License](#license)
 
 ---
 
@@ -274,4 +272,4 @@ npm run eval             # synthetic-user simulation
 
 ## Author
 
-**Your Name** · [GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-username)
+**Your Name** · [GitHub](https://github.com/Sakshammittal152) · [LinkedIn](https://www.linkedin.com/in/saksham-mittal-/)
